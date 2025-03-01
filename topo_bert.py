@@ -21,8 +21,8 @@ Todo:
 
 # import lib
 import nltk
-from bzrs_main.modules.ml_models.topo_bert.backbone_models import *
-from bzrs_main.modules.ml_models.topo_bert.dataset_process import *
+from backbone_models import *
+from dataset_process import *
 import os
 import json
 import re
